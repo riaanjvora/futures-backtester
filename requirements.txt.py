@@ -1,0 +1,3 @@
+streamlit==1.53.0
+pandas==2.3.3
+numpy==2.4.1
